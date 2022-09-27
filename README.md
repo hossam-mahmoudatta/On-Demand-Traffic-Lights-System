@@ -11,7 +11,7 @@ Here, we are simulating an ATMega32 Microcontroller on Proteus Professional 8.
 - Connected to **PORTC** pins are the Testing Lights that are indicators for our unit tests for the system.
 - Connected to **PORTD** pins is the external interrupt button that is used by pedestrians.
 
-### System Flowchart
+## System Flowchart
 ![image](https://user-images.githubusercontent.com/36197508/192501931-826772f1-a103-456e-980f-100798c651d3.png)
 
 [Here](https://drive.google.com/file/d/1AfnwDXWltdA5gQJPY0MVsqUbXjIZ0MEK/view?usp=sharing) is a detailed document about the project's description.
