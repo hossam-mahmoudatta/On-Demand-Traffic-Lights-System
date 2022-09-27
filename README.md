@@ -25,7 +25,7 @@ Here, we are simulating an ATMega32 Microcontroller on Proteus Professional 8.
 
 ### When external interrupt is engaged: Car & Pedestrian Traffic Lights operate in pedestrian mode
 
-## Files Classification
+## Project Filing
 ![image](https://user-images.githubusercontent.com/36197508/192508807-8086cf41-fd17-4c94-b6d0-611552b182cf.png)
 
 - Here You can see that the proram is divided into several blocks
